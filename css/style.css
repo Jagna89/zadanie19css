@@ -1,0 +1,26 @@
+body {
+	background-color: #f5f5dd;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+	margin-bottom: 20px;
+}
+
+.square1 {
+	opacity: 1;
+}
+
+.square2 {
+	opacity: 0.7;
+}
+
+.square3 {
+	opacity: 0.5;
+}
+
+.square4 {
+	opacity: 0.3;
+}
